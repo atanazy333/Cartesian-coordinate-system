@@ -1,7 +1,6 @@
 # CartScript
 
 Unity assembly style sandbox to write in cartesian coordinate system Beta 0.1
-maybe it will extend or not
 ![betaview](https://github.com/meva0xC/Cartesian-coordinate-system/blob/main/Imgs/img_beta.png)
 
 ## Documentation of functions
